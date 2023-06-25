@@ -1,0 +1,11 @@
+n=4
+count num of sub-graphs=2
+#1
+count=1
+1 4
+2 3
+#2
+count=1
+1 2
+1 4
+2 3
